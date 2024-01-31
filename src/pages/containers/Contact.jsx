@@ -4,7 +4,7 @@ import "../../assets/css/Contact.css";
 const Contact = () => {
   return (
    <>
-   <div class="contact3 py-5">
+   <div class="contact3 p-2 mt-2">
   <div class="row no-gutters">
     <div class="container">
       <div class="row">
