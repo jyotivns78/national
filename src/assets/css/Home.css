@@ -1,0 +1,9 @@
+.homes {
+    overflow-y: scroll; /* Show scrollbar */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer */
+}
+
+.homes::-webkit-scrollbar {
+    width: 0; /* Hide scrollbar in WebKit browsers */
+}

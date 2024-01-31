@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Poppins:wght@100;200;300;400;500;600;700&family=Roboto:ital,wght@0,500;0,900;1,100;1,300;1,700;1,900&display=swap');
+
+
+
+.team_container .form-group label {
+    float: left;
+    margin-bottom: 10px;
+    color: #333;
+font-size: 16px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.team_container .form-group select {
+    height: 60px !important;
+}
+
+.team_container .form-group select option.selected {
+    text-transform: uppercase;
+
+}
+
+.team_container .form-group select option {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+

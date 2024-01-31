@@ -1,0 +1,23 @@
+.about_container_section {
+    margin-top: 20px;
+    border: 2px solid #666;
+}
+
+.tab-title {
+    color: #FF1903;
+font-family: Poppins;
+font-size: 26px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+  
+  .active-tab {
+    color: #962217; /* Title color for active tab */
+  }
+  
+
+
+

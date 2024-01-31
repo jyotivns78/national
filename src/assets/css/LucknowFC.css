@@ -1,0 +1,16 @@
+.lfc_container ul {
+    display: flex;
+    padding: 0px;
+}
+
+.lfc_container ul li {
+    list-style: none;
+    color: #660803;
+font-family: Poppins;
+font-size: 23px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+border-right: 1px solid #660803;
+padding: 2px 12px;
+}
